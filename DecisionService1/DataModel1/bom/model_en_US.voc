@@ -1,0 +1,12 @@
+
+# Couple
+Couple#concept.label = couple
+Couple.Couple(java.lang.Long,java.lang.Long)#phrase.navigation = a new {couple} where {0, val1} {1, val2}
+Couple.val1#phrase.action = set the val1 of {this} to {val1}
+Couple.val1#phrase.addition_setter = add {val1} to the val1 of {this}
+Couple.val1#phrase.navigation = {val1} of {this}
+Couple.val1#phrase.subtraction_setter = subtract {val1} from the val1 of {this}
+Couple.val2#phrase.action = set the val2 of {this} to {val2}
+Couple.val2#phrase.addition_setter = add {val2} to the val2 of {this}
+Couple.val2#phrase.navigation = {val2} of {this}
+Couple.val2#phrase.subtraction_setter = subtract {val2} from the val2 of {this}
