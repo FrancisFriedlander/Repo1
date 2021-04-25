@@ -23,6 +23,7 @@
                 <rule defaultRule="true" href="node_1/output-default-setting.drl" kind="BusinessRule" name="output-default-setting"/>
                 <rule defaultRule="false" href="node_1/rule2.drl" kind="BusinessRule" name="rule2"/>
                 <rule defaultRule="false" href="node_1/rule2-copy1.drl" kind="BusinessRule" name="rule2-copy1"/>
+                <rule defaultRule="false" href="node_1/rule2-copy2.drl" kind="BusinessRule" name="rule2-copy2"/>
             </ruleset>
         </extensionElements>
         <variable id="node_1_ii" name="Sum" typeRef="java.lang.Long"/>
