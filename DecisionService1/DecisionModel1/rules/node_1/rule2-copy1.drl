@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>rule2-copy1</name>
+  <uuid>46570404-a0e8-4010-8ae2-9676633b9b2d</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[if
+	the val1 of Input is  the val2 of Input
+then
+	set decision to 2 ;]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>
